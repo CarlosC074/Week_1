@@ -1,0 +1,15 @@
+Semantic html: All contents on the top bar of the page have been 
+encased in a <header> tag. Additionally, the <body> tag has been 
+moved lower, starting at the top image rather than starting at the
+top bar which should be the header. 
+
+Html structuring: everything is tagged with a <div> tag, it's difficult 
+for a coder to read it and know what's happening, replace them with
+<p> tags 
+
+Image elements: make sure they have alts (a text popup in place of an
+image to display should the image fail to load)
+
+Heading attributes: have the headings show up in sequential order 
+
+Title element: add one
